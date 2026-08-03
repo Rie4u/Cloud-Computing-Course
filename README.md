@@ -1,8 +1,8 @@
- Cloud Computing Course Repository
+# Cloud Computing Course Repository
 
-A collection of activities, outputs, and learning resources for BSIT4G/CCM101
+ *A collection of activities, outputs, and learning resources for BSIT4G/CCM101.*
 
- About This Repository
+## About This Repository
 
 This repo serves as my organized workspace for all course requirements, including:
 - Class notes and summaries
@@ -10,14 +10,14 @@ This repo serves as my organized workspace for all course requirements, includin
 - Mini-projects
 - Reflection papers
 
- 👨‍🎓 Student Information
+## 👨‍🎓 Student Information
 
-Name: FREDERICK O. FELIPE
-Course/Section: BSIT4-G
-Instructor: JENKIELYN TORRES
-School Year: 2026-2027
+- **Name:** FREDERICK O. FELIPE
+- **Course/Section:** BSIT-4G
+- **Instructor:** JENKIELYN TORRES
+- **School Year:** 2026-2027
 
- 📁 Repository Structure
+## 📁 Repository Structure
 
 cloud-computing-course/
 ├── activities/
@@ -26,7 +26,7 @@ cloud-computing-course/
 ├── reflections/
 └── README.md
 
- 💡 Key Concepts Covered
+## 💡 Key Concepts Covered
 
 - Cloud Computing Basics
 - Service Models (IaaS, PaaS, SaaS)
